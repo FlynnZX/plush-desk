@@ -1,0 +1,10 @@
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,Segoe UI,sans-serif;color:#2b2233;background:#fffaf5;line-height:1.55}
+.wrap{max-width:960px;margin:0 auto;padding:48px 24px}.hero{background:linear-gradient(135deg,#ffd6e5,#d8e9ff)}
+.tag{font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#b0306a}h1{font-size:2.6rem;line-height:1.15;margin:.2em 0}
+.lead{font-size:1.15rem;max-width:680px}.btn{display:inline-block;background:#b0306a;color:#fff;padding:14px 24px;border-radius:999px;text-decoration:none;font-weight:700;border:0;font-size:1rem;cursor:pointer}
+.link{margin-left:16px;color:#b0306a}.pains{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:20px}
+.pains div,.card{background:#fff;border-radius:16px;padding:20px;box-shadow:0 4px 18px rgba(0,0,0,.06)}
+.free{background:#fff0f6;border-radius:24px}.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px}
+.price{font-size:2rem;font-weight:800;margin:0}.price span{font-size:1rem;font-weight:400}.small{font-size:.9rem;color:#6b6070}
+form{display:grid;gap:14px;max-width:620px}label{display:grid;gap:4px;font-weight:600}input,select{padding:10px;border:1px solid #d9cfe0;border-radius:10px;font:inherit}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:14px}
